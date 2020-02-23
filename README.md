@@ -23,3 +23,6 @@ https://github.com/dr-matt-smith/php-symfony-5-book-codes
 - https://github.com/dr-matt-smith/php-symfony-5-book-codes-forms-03-DIY-postback
 
 - https://github.com/dr-matt-smith/php-symfony-5-book-codes-forms-04-symfony-forms
+
+- https://github.com/dr-matt-smith/php-symfony-5-book-codes-forms-05-form-classes
+
