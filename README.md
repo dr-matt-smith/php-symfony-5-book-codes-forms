@@ -16,3 +16,7 @@ https://github.com/dr-matt-smith/php-symfony-5-book-codes
 
 ## The projects
 
+- https://github.com/dr-matt-smith/php-symfony-5-book-codes-forms-01-student-form
+
+- https://github.com/dr-matt-smith/php-symfony-5-book-codes-forms-02-validation
+
